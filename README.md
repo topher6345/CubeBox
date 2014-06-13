@@ -1,7 +1,7 @@
 # CubeBox
 
 <a href="http://imgur.com/tiEYdQW"><img src="http://i.imgur.com/tiEYdQW.png" title="Hosted by imgur.com" /></a>
-
+<a href="http://imgur.com/TEP6TLU"><img src="http://i.imgur.com/TEP6TLU.png" title="Hosted by imgur.com" /></a>
 
 ## Abstract
 
