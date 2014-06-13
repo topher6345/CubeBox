@@ -3,7 +3,8 @@
 <a href="http://imgur.com/tiEYdQW"><img src="http://i.imgur.com/tiEYdQW.png" title="Hosted by imgur.com" /></a>
 **CubeBox when generating music.**
 
-[video](http://youtu.be/7DLIOp1bxME)
+[Video](http://youtu.be/7DLIOp1bxME)
+
 ## Abstract
 
 Cubebox is a music sequencer designed to visualize tones as colors, and blend those colors together in RGB space in the way that they are heard in auditory space. The sequencer has 8 voices seperated into two 4-voiced gestures. The left gesture plays chords, the right gesture plays arpeggios or *swipes*. The user can interact with the musical gestures via sliders and menus controlling tempo, pitch, tonality, and range.
